@@ -1,1 +1,1 @@
-trying to get a merge conflict
+trying to get a merge conflict.
